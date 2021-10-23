@@ -1,1 +1,2 @@
 js.monitor.azure.com
+cdnasset.dantri.com.vn
