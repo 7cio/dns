@@ -7,3 +7,4 @@ autoptr.gitee.io
 netlify.autoptr.top
 autoptr.pages.dev
 autoptr.vercel.app
+zphimsex.me
