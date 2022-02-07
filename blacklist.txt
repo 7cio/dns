@@ -7,5 +7,7 @@ autoptr.gitee.io
 netlify.autoptr.top
 autoptr.pages.dev
 autoptr.vercel.app
+
 #being spammed
 pizzaseo.com
+fak.dk
