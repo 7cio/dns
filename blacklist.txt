@@ -11,3 +11,5 @@ autoptr.vercel.app
 #being spammed
 pizzaseo.com
 fak.dk
+
+||*tawk.to
