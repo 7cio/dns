@@ -12,4 +12,4 @@ autoptr.vercel.app
 pizzaseo.com
 fak.dk
 
-||*tawk.to
+||tawk.to^
