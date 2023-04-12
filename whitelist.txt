@@ -1,3 +1,4 @@
 js.monitor.azure.com
 cdnasset.dantri.com.vn
 meeting.starseed.fr
+app.saygames.io
