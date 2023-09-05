@@ -15,4 +15,3 @@ fak.dk
 ||tawk.to^
 ||wzb.eu^
 ||rayjump.com^
-||mzstatic.com^
