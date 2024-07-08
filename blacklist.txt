@@ -24,3 +24,4 @@ fak.dk
 ||syndicatedsearch.goog
 ||ocsp.pki.goog
 
+iads.vision
