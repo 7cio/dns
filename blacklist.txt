@@ -25,3 +25,4 @@ fak.dk
 ||ocsp.pki.goog
 
 iads.vision
+8cache.com
