@@ -27,4 +27,5 @@ fak.dk
 ||iads.vision
 ||8cache.com
 
+# fake revanced app, the real one is revanced.app
 revanced.net
