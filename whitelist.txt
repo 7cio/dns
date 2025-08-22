@@ -8,3 +8,4 @@ www.googletagmanager.com
 matomo.vietlottsms.vn
 stats.g.doubleclick.net
 www.wowebook.org
+wowebook.org
